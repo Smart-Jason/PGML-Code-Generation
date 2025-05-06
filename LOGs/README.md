@@ -1,11 +1,9 @@
 # LOGs
 Relevant documents or meeting logs.
 
-------------------------------------------------------------
-
 # Timeline
 
-Offline Meetings:
+## Offline Meetings:
 
 2025.4.8:
 - Introduction
@@ -24,7 +22,7 @@ Offline Meetings:
 - Finish After_Offline_Meeting_2.docx
 
 ------------------------------------------------------------
-Online Meetings:
+## Online Meetings:
 
 2025.4.8:
 - Introduction
