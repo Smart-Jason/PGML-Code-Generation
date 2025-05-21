@@ -35,6 +35,6 @@ Relevant documents or meeting logs.
 - Finish PG_language_1.docx
 
 2025.5.20:
-- Conclusion of the content of the offline meetings during 2025.4.8 - 2025.5.20
+- Conclusion of the content of the offline meetings from 2025.4.8 to 2025.5.20
 
 ------------------------------------------------------------
