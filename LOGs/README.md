@@ -21,6 +21,12 @@ Relevant documents or meeting logs.
 2025.5.6:
 - Finish After_Offline_Meeting_2.docx
 
+2025.5.13:
+- Finish After_Offline_Meeting_3.docx
+
+2025.5.20:
+- Finish After_Offline_Meeting_4.docx
+
 ------------------------------------------------------------
 ## Online Meetings:
 
@@ -28,5 +34,7 @@ Relevant documents or meeting logs.
 - Introduction
 - Finish PG_language_1.docx
 
+2025.5.20:
+- Conclusion of the content of the offline meetings during 2025.4.8 - 2025.5.20
 
 ------------------------------------------------------------
