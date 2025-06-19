@@ -3,11 +3,13 @@
 ## Usage 1: 
 
 ```python
-    #!/usr/bin/env python3
-    printf <PGML_Code> | dune exec _build/default/unparser.exe
- ```
+# Parsing and Unparsing
 printf <PGML_Code> | dune exec _build/default/unparser.exe
+```
 
 ## Usage 2:
 
+```python
+# Generation
 dune exec _build/default/unparser.exe 2230026100
+```
