@@ -27,6 +27,9 @@ Relevant documents or meeting logs.
 2025.5.20:
 - Finish After_Offline_Meeting_4.docx
 
+2025.6.10:
+- Production_Rules.docx
+
 ------------------------------------------------------------
 ## Online Meetings:
 
