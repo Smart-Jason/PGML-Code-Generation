@@ -2,6 +2,10 @@
 
 ## Usage 1: 
 
+```python
+    #!/usr/bin/env python3
+    printf <PGML_Code> | dune exec _build/default/unparser.exe
+ ```
 printf <PGML_Code> | dune exec _build/default/unparser.exe
 
 ## Usage 2:
