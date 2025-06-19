@@ -11,4 +11,4 @@ printf <PGML_Code> | dune exec _build/default/unparser.exe
 ```python
 dune exec _build/default/unparser.exe <Student_Id>
 ```
-**More details in *doc/Generator Usage.pdf***
+**More details in doc/Generator Usage.pdf**
