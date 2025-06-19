@@ -9,6 +9,6 @@ printf <PGML_Code> | dune exec _build/default/unparser.exe
 ## Usage 2 (Generation):
 
 ```python
-dune exec _build/default/unparser.exe 2230026100
+dune exec _build/default/unparser.exe <Student_Id>
 ```
 **More details in doc/Generator Usage.pdf**
