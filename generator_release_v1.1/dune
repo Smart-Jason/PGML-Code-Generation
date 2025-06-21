@@ -1,0 +1,6 @@
+(executable
+ (name       unparser)
+ (modules    ast lexer parser ast_printer semantic describe print_pprint generator unparser)
+ (libraries  menhirLib menhirCST pprint)
+ (flags (:standard -w -26-27))
+ )
