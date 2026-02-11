@@ -19,8 +19,8 @@ The core of our math question generation system is a grammar-based approach, fun
 The generator is designed to produce a diverse set of mathematical problems, each mapped to a distinct domain within the undergraduate curriculum. This variety ensures the tool's utility across multiple topics in a typical mathematics or engineering course. The system currently supports **FOUR** core problem types: 
 - _Arithmetic_,
 - _Set Operations_,
-- _Vector Operations_,
-- and _Differential Calculus_.
+- _Vector Operations_, and 
+- _Differential Calculus_.
 
 For each type, a dedicated subset of the formal PGML grammar has been developed, governing not only the syntactic structure of the question text but also the accompanying computational logic for answer generation and validation within the WeBWork system.
 
