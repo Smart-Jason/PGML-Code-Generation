@@ -34,7 +34,7 @@ This system operates on two interconnected levels: a set of global parameters th
 
 In traditional digital mathematics education, "context rigidity" and "scale limitation" often pose significant bottlenecks for problem generation. This work addresses these issues by incorporating Large Language Models (LLMs) through generative AI technologies, providing a scalable and personalized solution for educational content creation. We provide a detailed account of the problem context generation methodology, aiming to serve as an empirical case study for AI in educational assessment.
 
-## Live Demo💡:
+## Live Demo💡
 
 Let's try to generate some math problems!
 
