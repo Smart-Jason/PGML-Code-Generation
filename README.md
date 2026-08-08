@@ -1,5 +1,7 @@
 # Math Question Generation
 
+<img width="598" height="598" alt="logo" src="https://github.com/user-attachments/assets/260eee04-2922-4ae2-b033-c5a3da8f88c5" />
+
 <p align="center">
   <b>English</b> · <a href="./README.zh-CN.md"><b>简体中文</b></a>
 </p>
