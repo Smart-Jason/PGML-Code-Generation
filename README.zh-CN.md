@@ -1,6 +1,11 @@
 # 数学题目生成系统
 
 <p align="center">
+  <img width="300" alt="logo"
+       src="https://github.com/user-attachments/assets/260eee04-2922-4ae2-b033-c5a3da8f88c5" />
+</p>
+
+<p align="center">
   <a href="./README.md"><b>English</b></a> · <b>简体中文</b>
 </p>
 
