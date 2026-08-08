@@ -1,12 +1,8 @@
 # Math Question Generation
 
 <p align="center">
-  <img
-    width="300"
-    height="300"
-    alt="logo"
-    src="https://github.com/user-attachments/assets/260eee04-2922-4ae2-b033-c5a3da8f88c5"
-  />
+  <img width="300" alt="logo"
+       src="https://github.com/user-attachments/assets/260eee04-2922-4ae2-b033-c5a3da8f88c5" />
 </p>
 
 <p align="center">
